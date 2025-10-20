@@ -21,7 +21,6 @@ public class Gerente extends usuarios {
             System.out.println("Digite as informaçoes abaixo para fazer o login");
             System.out.println("Digite seu nome:");
             var nomeLogin = scanner.next();
-            System.out.println("Digite seu email:");
             var emailLogin = scanner.next();
             System.out.println("Digite sua senha:");
             var senhaLogin = scanner.next();
